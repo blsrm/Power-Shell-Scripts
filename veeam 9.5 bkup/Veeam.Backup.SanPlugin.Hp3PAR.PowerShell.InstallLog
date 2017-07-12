@@ -1,0 +1,18 @@
+﻿Installing assembly 'D:\Veeam\Backup and Replication\Backup\Veeam.Backup.SanPlugin.Hp3PAR.PowerShell.dll'.
+Affected parameters are:
+   logtoconsole = true
+   showcallstack = 
+   assemblypath = D:\Veeam\Backup and Replication\Backup\Veeam.Backup.SanPlugin.Hp3PAR.PowerShell.dll
+   logfile = D:\Veeam\Backup and Replication\Backup\Veeam.Backup.SanPlugin.Hp3PAR.PowerShell.InstallLog
+Committing assembly 'D:\Veeam\Backup and Replication\Backup\Veeam.Backup.SanPlugin.Hp3PAR.PowerShell.dll'.
+Affected parameters are:
+   logtoconsole = true
+   showcallstack = 
+   assemblypath = D:\Veeam\Backup and Replication\Backup\Veeam.Backup.SanPlugin.Hp3PAR.PowerShell.dll
+   logfile = D:\Veeam\Backup and Replication\Backup\Veeam.Backup.SanPlugin.Hp3PAR.PowerShell.InstallLog
+Uninstalling assembly 'D:\Veeam\Backup and Replication\Backup\Veeam.Backup.SanPlugin.Hp3PAR.PowerShell.dll'.
+Affected parameters are:
+   logtoconsole = true
+   showcallstack = 
+   assemblypath = D:\Veeam\Backup and Replication\Backup\Veeam.Backup.SanPlugin.Hp3PAR.PowerShell.dll
+   logfile = D:\Veeam\Backup and Replication\Backup\Veeam.Backup.SanPlugin.Hp3PAR.PowerShell.InstallLog
